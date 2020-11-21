@@ -2527,7 +2527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 19850752, guid: 2c995330ad9021e459dd7e46057faf48, type: 3}
       propertyPath: EmissionModule.rateOverTime.scalar
-      value: 256.4
+      value: 246.84
       objectReference: {fileID: 0}
     - target: {fileID: 19850752, guid: 2c995330ad9021e459dd7e46057faf48, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
@@ -2588,6 +2588,14 @@ PrefabInstance:
     - target: {fileID: 19850752, guid: 2c995330ad9021e459dd7e46057faf48, type: 3}
       propertyPath: ShapeModule.m_Scale.y
       value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 19984234, guid: 2c995330ad9021e459dd7e46057faf48, type: 3}
+      propertyPath: m_MaxParticleSize
+      value: 1.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 19984234, guid: 2c995330ad9021e459dd7e46057faf48, type: 3}
+      propertyPath: m_SortingFudge
+      value: 0.02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c995330ad9021e459dd7e46057faf48, type: 3}
