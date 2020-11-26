@@ -5,7 +5,7 @@ The player can move around the environment and toggle the radio On/Off.
 
 The app features:
 
-- Toggleable Radio with Sound/Video Interactable (C#)
+- Toggleable Radio with Sound/Visual Interactable (C#)
 - Realistic Graphics (built in Blender, textured in Substance Painter)
 - Animated NPC
 - Realistic Baked Lighting
